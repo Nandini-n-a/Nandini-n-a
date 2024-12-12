@@ -1,4 +1,4 @@
-![Developer](https://github.com/nandini040/nandini040/blob/main/Nandini.gif)
+![Developer](https://github.com/Nandini-n-a/Nandini-n-a/blob/main/Nandini.gif)
 
 
 # Hi there! 👋
