@@ -3,7 +3,7 @@
 
 # Hi there! 👋
 
-I'm Nandini, a dedicated IT professional with **around 2 years of experience in IT** and **2 years of technical and functional expertise in Dassault Systèmes' 3DEXPERIENCE platform**. I specialize in **ENOVIA (2020X and 2022X)** and have a strong background in programming, customization, and data migration.
+I'm Nandini, a dedicated IT professional with **around 2.5 years of experience in IT** and **2.5 years of technical and functional expertise in Dassault Systèmes' 3DEXPERIENCE platform**. I specialize in **ENOVIA (2020X and 2022X)** and have a strong background in programming, customization, and data migration.
 
 ---
 
