@@ -10,7 +10,7 @@ I'm Nandini, a dedicated IT professional with **around 2.5 years of experience i
 ## 💼 Professional Expertise
 - **3DEXPERIENCE Knowledge**:  
   - Hands-on expertise with **3DSpace**, **Person and Organization Concepts**, and **Social and Collaborative Apps**.  
-  - Experience in **Variant Central ENOVIA application**.  
+  - Experience in **Variant Central ENOVIA application**,**Project Managment**,**Document Managment**.  
   - Deep understanding of migration and customization using **JPO** with **Spinner**.
   
 - **Development & Customization**:  
